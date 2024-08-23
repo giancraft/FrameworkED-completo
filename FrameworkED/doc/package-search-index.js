@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"desenhoNodo"},{"l":"facade"},{"l":"factories"},{"l":"interfaces"},{"l":"listasLineares"},{"l":"nodo"}];updateSearchResults();
